@@ -2,7 +2,7 @@
 
 ## General info
 
-The aim of the work was to implement an BWT algorithm that maps peptide sequences to protein sequences.
+The aim of the work was to implement a BWT algorithm that maps peptide sequences to protein sequences.
 
 This implementation is the result of Master's Project at the Intercollegiate Faculty of Biotechnology UG&MUG in the Laboratory of Biopolymers Structure.
 
