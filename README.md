@@ -13,7 +13,7 @@ It was built using Python 3.10.4 version.
 To use this implementation, the first step is to install required library. From the project root directory, run this command in the terminal:
 
 ```
-$ pip install -r requirement.txt
+$ pip install -r requirements.txt
 ```
 
 This command installs external library that is used in this project.
